@@ -127,6 +127,11 @@ header.template_header h1 span {
 .template_home_stars {
     margin-top: 20px;
 }
+.fa-bars {
+    font-size: 40px;
+    position: relative;
+    bottom: 20px;
+}
 /***** Main Menu *****/
 nav.main-menu {
     top: 130px;
