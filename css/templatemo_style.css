@@ -12,6 +12,11 @@ http://www.templatemo.com/tm-474-app-landing
     display: none !important;
 }
 
+.hbspt-form {
+    border-style: solid;
+    border-width: 20px;
+}
+
 @font-face {
     font-family: 'Fira Sans';
     src: url('../fonts/FiraSans-Light.eot');
