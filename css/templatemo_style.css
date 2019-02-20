@@ -8,9 +8,8 @@ http://www.templatemo.com/tm-474-app-landing
 
 /***** Personal Touches *****/
 
-.hubspot-link__container sproket {
-    display: none;
-     !important
+.hubspot-link__container {
+    display: none !important;
 }
 
 @font-face {
